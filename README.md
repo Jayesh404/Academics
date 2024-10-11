@@ -1,2 +1,2 @@
 # Academics
-This repo is for all the college related work.
+This Repository contains all the college related work.
